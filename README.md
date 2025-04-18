@@ -18,7 +18,11 @@ Welcome to MarketToolbox, a modern and user-friendly online marketplace dedicate
  ├── /uploads
  ├── /users
  └── README.md
- 
+ └── add_product.php
+ └── change_password.php
+ └── db.php
+ └── footer.php
+
 🛠️ Technologies Used
 
 HTML5 & CSS3
