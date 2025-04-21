@@ -22,6 +22,10 @@ Welcome to MarketToolbox, a modern and user-friendly online marketplace dedicate
  └── change_password.php
  └── db.php
  └── footer.php
+ └── header.php
+ └── index.php
+ └── load_more_products.php
+ └── login-process.php
 
 🛠️ Technologies Used
 
