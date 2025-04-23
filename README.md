@@ -34,6 +34,10 @@ Welcome to MarketToolbox, a modern and user-friendly online marketplace dedicate
  └── register-form.php
  └── settings.php
  └── sign-up.php
+ └── submit_product.php
+ └── submit_rating.php
+ └── update_user_info.php
+ └── upload_image.php
 
 🛠️ Technologies Used
 
